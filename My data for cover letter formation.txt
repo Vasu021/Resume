@@ -1,0 +1,121 @@
+My data
+Name : Amlendu Shekhar
+
+EDUCATION -
+
+Master of Science (MS), RWTH Aachen University, Germany April 2024 - April 2026
+Data Science
+• Data Analysis and Visualization (Pandas, NumPy, Matplotlib, Data Cleaning, Data Wrangling)
+• Machine Learning (Data Pre-Processing, Feature Engineering, Model Selection and Optimization, NLP,
+TensorFlow, Scikit-Learn)
+• Mathematics and Statistics
+• Knowledge of Ethics related to Technology and Data.
+
+Bachelor of Technology (B.Tech), AKTU, Uttar Pradesh, India August 2018 - August 2022
+Computer Science And Engineering - 8.33 CGPA
+• Data Structure and Algorithms (Problem Solving, Design and Analysis of Algorithms, Graphs, Trees,
+Stacks, Linked Lists, Dynamic Programming Algorithms, Greedy Algorithms, Searching and Sorting
+Algorithms and Programming Languages like C, Java and Python).
+• Cybersecurity (Penetration Testing, Kali Linux, Network Security, Encryption Technologies, OWASP Top
+10).
+• DBMS, Operating Systems, Software Engineering and Web Technology.
+• Professional English and Technical Communication.
+
+
+SKILLS -
+
+Prog. Languages - C, Python, C# and Java
+Technologies - ASP.NET MVC, Angular
+Interests - Data Science, Machine Learning, DSA, Cybersecurity, IoT and Automation
+Familiar with - MySQL, Jira, Git and Github, Linux, Jupyter Nb.,OWASP Top 10 and Rapidminer
+
+EXPERIENCE -
+
+Gemini Solutions, Gurugram Aug 2021 - Present
+Software Engineer L1
+• Provided valuable contributions to a client project, delivering results and insights that met their business objectives.
+• Worked on various components of MIS (Management Information System).
+• Developed and performed code optimization, refactoring and code cleanup for multiple functionalities.
+• Tech - C#, ASP.NET, Entity Framework, MVC, Javascript and MySQL.
+
+PROJECTS -
+
+Chess Timer(IoT Based) - Built a chess timer using Arduino, Ultrasonic Sensor and LCD Display 16x2. Programming Language used in Arduino - C.
+
+Base Converter Website - Developed a web application to convert a number from one base to another. i.e. hexadecimal to binary, octal to base 9, etc. Hosting and possible SEO is done using GitHub Pages.
+
+My-TryHackMe - Successfully pwned 44 machines and have collected 12 skill badges. Current Level and Badge - [8][H4CK3R].
+
+ACHIEVEMENTS AND INTERESTS
+• 6 Star Problem Solver on HackerRank and have solved 150+ problems on LeetCode.
+• Achieved Peak Rank of #115 on TryHackMe in India.
+• 2nd position in Bug Bounty, Fastest decoder and 1st in Brainstorm College Coding Competitions.
+• 1400+ rated Chess player on chess.com.
+• Fluent in Hindi and English [IELTS - 7.5 (S-7,R-7.5,L-7.5,W-8)].
+• Basic proficiency in French and German.
+• Reading, Table Tennis, and Badminton
+
+
+
+
+
+I have started learning Data Science and I want internship in Atlas Copco Group in Aachen, Germany. This opportunity will boost my career.
+
+Below is the data provided by the company.
+
+"
+Our solutions are an essential part of many industries - electronics, medical research, renewable energy, food production, infrastructure and many more. Working with us means working with the latest technologies and groundbreaking, sustainable innovations.
+
+Join us on our journey to a better future.
+
+ISRA VISION is a leading provider of industrial image processing with more than 1,200 employees at 25 locations worldwide. As part of the Machine Vision Division of the global Atlas Copco Group, we stand for sustainable and intelligent industrial solutions that range from surface inspection to software-controlled robotics applications for smart factory automation. Passion, commitment and diversity have been what drives us for over 35 years.
+
+Become part of our global team at our Aachen location as a working student (f/m/d) for software development, image processing/machine vision in the Research and Development area.
+
+Inspiring – your tasks:
+
+You help with software development for optical quality analysis in the metal and paper industry. You will support us in our R&D department directly on site in Aachen Oberforstbach, for example
+
+the programming of software modules and Windows applications.
+the integration of external software modules into the existing software.
+the creation and maintenance of applications and dashboards in our graphical interface for production analysis.
+Routine and maintenance work in our Microsoft Azure DevOps environment.
+Convincing – your profile:
+
+In addition to a few semesters of computer science, information technology, electrical engineering, physics, etc., you should have these skills in particular:
+
+Good knowledge of C++ and/or C#, preferably on Windows.
+An independent and structured way of working in a team.
+Confident use of MS Office applications (Excel, Word and PowerPoint)
+Good knowledge of spoken and written German and English.
+The following are advantageous:
+
+Experience in source code management with git.
+Experience in software development with MS Visual Studio.
+Initial experience in GUI programming with WPF or WinForms.
+Basic knowledge of image processing, machine learning, databases, data mining or DevOps.
+Attractive – your advantages:
+
+With us you can take on tasks independently in an international team with flat hierarchies. As part of the globally active and traditional Swedish Atlas Copco Group, we offer exciting and challenging topics as a technology and market leader.
+
+You get from us:
+
+A position as a working student or working student with a weekly working time of up to 20 hours. During the lecture-free period, up to 40 hours per week are possible.
+Flexible working hours can be arranged by arrangement so that your studies are always the priority.
+An attractive salary that is generally higher than the RWTH salary.
+The opportunity to develop personally and professionally and gain insights into the world of work.
+Access to a training and continuing education portal with countless courses on every topic imaginable.
+The opportunity to write your bachelor’s or master’s thesis with us. We will find a suitable topic!
+A relaxed, collegial and appreciative working atmosphere.
+Free soft drinks during working hours.
+Are you interested? Then apply now and become part of our diverse team!
+
+Don't you meet all the criteria in the job advertisement? No problem, apply anyway! Send us your application, stating your salary expectations and complete documents (CV, certificates) using our application form. You can also contact our recruiting team at any time by phone at +49 (6151) 948 – 222.
+
+Diverse by nature and inclusive by conviction!
+
+Brilliant ideas come from all of us. The more unique perspectives we include, the more innovative we are. Together we shape a culture where differences are valued and we share a deep sense of connection and belonging.
+"
+
+
+Write a cover letter for the same.
