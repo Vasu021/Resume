@@ -27,22 +27,22 @@ SKILLS -
 Prog. Languages - C, Python, C# and Java
 Technologies - ASP.NET MVC, Angular
 Interests - Data Science, Machine Learning, DSA, Cybersecurity, IoT and Automation
-Familiar with - MySQL, Jira, Git and Github, Linux, Jupyter Nb.,OWASP Top 10 and Rapidminer
+Familiar with - MySQL, Jira, Git and GitHub, Linux, Jupyter Nb.,OWASP Top 10 and RapidMiner
 
 EXPERIENCE -
 
-Gemini Solutions, Gurugram Aug 2021 - Present
+Gemini Solutions, Gurugram August 2021 - March 2024
 Software Engineer L1
 • Provided valuable contributions to a client project, delivering results and insights that met their business objectives.
 • Worked on various components of MIS (Management Information System).
 • Developed and performed code optimization, refactoring and code cleanup for multiple functionalities.
-• Tech - C#, ASP.NET, Entity Framework, MVC, Javascript and MySQL.
+• Tech - C#, ASP.NET, Entity Framework, MVC, JavaScript and MySQL.
 
 PROJECTS -
 
 Chess Timer(IoT Based) - Built a chess timer using Arduino, Ultrasonic Sensor and LCD Display 16x2. Programming Language used in Arduino - C.
 
-Base Converter Website - Developed a web application to convert a number from one base to another. i.e. hexadecimal to binary, octal to base 9, etc. Hosting and possible SEO is done using GitHub Pages.
+Car Price Prediction Website - Website for Indian car price prediction. Provide details like City/Year of purchase, mileage , kilometers driven, engine, power, etc. and predict your car's current worth. Performed data cleaning, feature engineering and selection, encoding categorical variables (used onehot encoding) and handled missing data. Developed and trained a linear regression model. Used pickle to serialize the trained model. Saved the model as a .pkl file for easy deployment and reuse. Built a user-friendly interface and connected it with the backend using Flask. Deployed the website on Google Cloud Console’s App Engine for reliable service. Version Control - Git
 
 My-TryHackMe - Successfully pwned 44 machines and have collected 12 skill badges. Current Level and Badge - [8][H4CK3R].
 
@@ -59,63 +59,39 @@ ACHIEVEMENTS AND INTERESTS
 
 
 
-I have started learning Data Science and I want internship in Atlas Copco Group in Aachen, Germany. This opportunity will boost my career.
+I have started learning Data Science, AI and ML and I want Software Engineer internship in Microsoft in Germany. This opportunity will extremely boost my career.
 
 Below is the data provided by the company.
 
+
 "
-Our solutions are an essential part of many industries - electronics, medical research, renewable energy, food production, infrastructure and many more. Working with us means working with the latest technologies and groundbreaking, sustainable innovations.
+Overview
+Start date: September 2024
+Type of Employment: Student Worker
 
-Join us on our journey to a better future.
+Come build community, explore your passions and do your best work at Microsoft with thousands of University graduates and SW from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential—and excitement for the journey ahead.  
 
-ISRA VISION is a leading provider of industrial image processing with more than 1,200 employees at 25 locations worldwide. As part of the Machine Vision Division of the global Atlas Copco Group, we stand for sustainable and intelligent industrial solutions that range from surface inspection to software-controlled robotics applications for smart factory automation. Passion, commitment and diversity have been what drives us for over 35 years.
+Software engineers (SWEs) work with teammates to solve problems and build innovative software solutions. You are passionate about customers and product quality, and you provide technical guidance to Program Managers as they consider user needs and product requirements. You will also be expected to demonstrate an ability to learn and adopt relevant new technologies, tools, methods and processes to leverage in your solutions. As a SWE, you are dedicated to design, development and testing of next-generation software which will empower every person and organization on the planet to achieve more. 
 
-Become part of our global team at our Aachen location as a working student (f/m/d) for software development, image processing/machine vision in the Research and Development area.
+At Microsoft, Student workers  work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.
 
-Inspiring – your tasks:
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond. Learn more about our cultural attributes.
 
-You help with software development for optical quality analysis in the metal and paper industry. You will support us in our R&D department directly on site in Aachen Oberforstbach, for example
+Qualifications
+Pursuing a Bachelor's or Master's degree in Engineering, Computer Science or related field.  
+Must have at least one additional quarter/semester of school remaining following the completion of the Internship
+One year of programming experience in an object-oriented language. 
+Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms. 
+You must be legally authorised to work in Germany to be eligible for this role.
 
-the programming of software modules and Windows applications.
-the integration of external software modules into the existing software.
-the creation and maintenance of applications and dashboards in our graphical interface for production analysis.
-Routine and maintenance work in our Microsoft Azure DevOps environment.
-Convincing – your profile:
-
-In addition to a few semesters of computer science, information technology, electrical engineering, physics, etc., you should have these skills in particular:
-
-Good knowledge of C++ and/or C#, preferably on Windows.
-An independent and structured way of working in a team.
-Confident use of MS Office applications (Excel, Word and PowerPoint)
-Good knowledge of spoken and written German and English.
-The following are advantageous:
-
-Experience in source code management with git.
-Experience in software development with MS Visual Studio.
-Initial experience in GUI programming with WPF or WinForms.
-Basic knowledge of image processing, machine learning, databases, data mining or DevOps.
-Attractive – your advantages:
-
-With us you can take on tasks independently in an international team with flat hierarchies. As part of the globally active and traditional Swedish Atlas Copco Group, we offer exciting and challenging topics as a technology and market leader.
-
-You get from us:
-
-A position as a working student or working student with a weekly working time of up to 20 hours. During the lecture-free period, up to 40 hours per week are possible.
-Flexible working hours can be arranged by arrangement so that your studies are always the priority.
-An attractive salary that is generally higher than the RWTH salary.
-The opportunity to develop personally and professionally and gain insights into the world of work.
-Access to a training and continuing education portal with countless courses on every topic imaginable.
-The opportunity to write your bachelor’s or master’s thesis with us. We will find a suitable topic!
-A relaxed, collegial and appreciative working atmosphere.
-Free soft drinks during working hours.
-Are you interested? Then apply now and become part of our diverse team!
-
-Don't you meet all the criteria in the job advertisement? No problem, apply anyway! Send us your application, stating your salary expectations and complete documents (CV, certificates) using our application form. You can also contact our recruiting team at any time by phone at +49 (6151) 948 – 222.
-
-Diverse by nature and inclusive by conviction!
-
-Brilliant ideas come from all of us. The more unique perspectives we include, the more innovative we are. Together we shape a culture where differences are valued and we share a deep sense of connection and belonging.
+Responsibilities
+Applies engineering principles to solve complex problems through sound and creative engineering. 
+Quickly learns new engineering methods and incorporates them into his or her work processes. 
+Seeks feedback and applies internal or industry best practices to improve his or her technical solutions. 
+Demonstrates skill in time management and completing software projects in a cooperative team environment.
 "
 
 
-Write a cover letter for the same.
+Write a cover letter for the same. 
+
+Specially show that I am a student and I need this job. I am in a learning phase and MICROSOFT is the best option.
